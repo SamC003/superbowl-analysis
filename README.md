@@ -5,3 +5,4 @@ the most common winning scores, and point differences per game.
 
 
 How many times has each team won the Super Bowl?
+![Wins by Team](charts/wins_by_team.png)
