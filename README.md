@@ -18,7 +18,7 @@ Python • Pandas • Matplotlib • PyCharm
 ## Key insights
 - Winning scores cluster around the high-20s/low-30s (e.g., 27, 31).
 - Most games are decided by ~10–20 points; a few are major blowouts.
-- (Add any team-specific insights you found.)
+- Pitsburg Steelers and Patriots lead with most Super Bowl wins (6) 
 
 ## Visualizations
 **Wins by Team**  
@@ -34,3 +34,4 @@ Python • Pandas • Matplotlib • PyCharm
 ```bash
 pip install pandas matplotlib
 python main.py
+
